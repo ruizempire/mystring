@@ -12,7 +12,7 @@ int main()
 	char name[50];
 	cout << "enter a name" << endl;
 	gets_s(name);
-	cout << "your name is" << name << endl;
+	cout << "your name is " << name << endl;
 	cout << "you're done" << endl;
     return 0;
 }
